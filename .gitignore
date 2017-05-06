@@ -1,5 +1,9 @@
 #basic user config file
 ideas.xml
+*.txt
+
+#helper script
+sort.py
 
 ## macOS
 *.DS_Store
